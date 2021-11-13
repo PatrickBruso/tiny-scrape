@@ -1,3 +1,7 @@
+"""
+Program that scrapes the current price of Algorand from tinychart.org
+"""
+
 from bs4 import BeautifulSoup
 import requests
 
